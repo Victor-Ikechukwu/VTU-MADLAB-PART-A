@@ -1,0 +1,16 @@
+[
+  {
+    "City_Name":"Mysore",
+    "Latitude": "12.86",
+    "Longitude": "67.9",
+    "Temperature": "23",
+    "Humidity": "80%"
+  },
+  {
+    "City_Name":"Mandya",
+    "Latitude": "12.96",
+    "Longitude": "67.7",
+    "Temperature": "23.4",
+    "Humidity": "80%"
+  }
+]

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<record>
+    <place>
+        <City_Name>Mysore</City_Name>
+        <Latitude>12.295</Latitude>
+        <Longitude>78.93</Longitude>
+        <Temperature>25</Temperature>
+        <Humidity>89%</Humidity>
+    </place>
+
+    <place>
+        <City_Name>Mandya</City_Name>
+        <Latitude>12.495</Latitude>
+        <Longitude>79.93</Longitude>
+        <Temperature>25.8</Temperature>
+        <Humidity>90%</Humidity>
+    </place>
+</record>
